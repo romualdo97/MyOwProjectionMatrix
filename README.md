@@ -5,3 +5,10 @@ You can read the [Scratch a pixel article](https://www.scratchapixel.com/lessons
 
 # Showcase
 ![showcase](https://github.com/romualdo97/MyOwnProjectionMatrix/blob/master/Showcase.gif?raw=true)
+
+# Experiments
+A summary of the experiments.
+
+- Write shader class using the RAII idiom.
+- Follow the C++ rule of five, i.e.: Implement copy constructor, copy assign, move constructor, move assign and destructor for the `Shader` class.
+- Write the projection matrix from scratch and send as unigorm to the GPU.
