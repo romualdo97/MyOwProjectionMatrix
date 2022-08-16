@@ -11,4 +11,4 @@ A summary of the experiments.
 
 - Write shader class using the RAII idiom.
 - Follow the C++ rule of five, i.e.: Implement copy constructor, copy assign, move constructor, move assign and destructor for the `Shader` class.
-- Write the projection matrix from scratch and send as unigorm to the GPU.
+- Write the projection matrix from scratch and send as uniform to the GPU.
